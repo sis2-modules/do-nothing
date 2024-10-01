@@ -1,0 +1,8 @@
+name: do-nothing
+version: 1
+authors:
+  - hanba-gu1
+
+dependencies:
+
+actions:
